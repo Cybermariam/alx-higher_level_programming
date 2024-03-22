@@ -1,2 +1,1 @@
-if/else, loops, functions
-
+conditional statement and loops in python
